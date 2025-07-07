@@ -1,4 +1,5 @@
-const API_BASE_URL = 'https://3000-i9z8akoqy2wyrn78voppt-f7c441f1.manusvm.computer/api';
+const API_BASE_URL = 'https://vite-react-production-b80c.up.railway.app/api';
+';
 
 class ApiClient {
   constructor() {
